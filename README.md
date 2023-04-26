@@ -11,5 +11,14 @@ Contribution
 Sumedhasure :- sql queries.
 Princedavidsanam:- front end application
 
+Commits by team
+1a69790
+6527fc8
+2f30094
+46b6460
+83cbc4f
+bc02181
+ca24736
+9fead8a
 
 github link:https://github.com/Sumedhasure/sqlprogect/blob/main/README.md
